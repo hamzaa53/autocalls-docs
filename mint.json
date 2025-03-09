@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Autocalls",
+  "name": "ClickSpeak",
   "logo": {
     "dark": "/resources/logo/dark.png",
     "light": "/resources/logo/light.png"
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://clickspeak.ai"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "https://clickspeak.ai/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://app.clickspeak.ai"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -52,7 +52,7 @@
   "navigation": [{
       "group": "Introduction",
       "pages": [
-        "introduction/what-is-autocalls",
+        "introduction/what-is-clickspeak",
         "introduction/how-it-works",
         "introduction/key-terminology"
       ]
@@ -181,7 +181,7 @@
     {
       "group": "Calls Related",
       "pages": [
-        "automation-platform/calls-related/autocalls-tool",
+        "automation-platform/calls-related/clickspeak-tool",
         "automation-platform/calls-related/common-integrations",
         "automation-platform/calls-related/sms-capabilities"
       ]
@@ -195,9 +195,6 @@
       ]
     }
   ],
-  "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/autocalls-ai"
-  },
   "api": {
     "baseUrl": "https://app.autocalls.ai/api/",
     "auth": {
