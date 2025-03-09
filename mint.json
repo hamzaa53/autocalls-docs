@@ -38,12 +38,8 @@
     "icon": "wand-magic-sparkles",
     "color": "#6c63ff",
     "url": "automation-platform"
-  }, {
-    "name": "White Label",
-    "icon": "tag",
-    "color": "#ff0142",
-    "url": "white-label"
-  }, {
+  },
+  {
     "name": "API Reference",
     "icon": "code",
     "color": "#1c51fc",
@@ -141,14 +137,6 @@
       ]
     },
     {
-      "group": "White Label Program",
-      "pages": [
-        "white-label/overview",
-        "white-label/onboarding",
-        "white-label/plans-setup"
-      ]
-    },
-    {
       "group": "Troubleshooting & FAQs",
       "pages": [
         "troubleshooting/voice-problems",
@@ -184,14 +172,6 @@
         "automation-platform/calls-related/clickspeak-tool",
         "automation-platform/calls-related/common-integrations",
         "automation-platform/calls-related/sms-capabilities"
-      ]
-    },
-    {
-      "group": "Tutorials",
-      "pages": [
-        "automation-platform/tutorials/outbound-form-call",
-        "automation-platform/tutorials/inbound-context-injection"
-
       ]
     }
   ],
