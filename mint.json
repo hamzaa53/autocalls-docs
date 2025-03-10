@@ -24,10 +24,10 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://clickspeak.ai"
+    "url": "https://www.clickspeak.ai"
   }, {
     "name": "Support",
-    "url": "https://clickspeak.ai/contact"
+    "url": "https://www.clickspeak.ai/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
@@ -176,7 +176,7 @@
     }
   ],
   "api": {
-    "baseUrl": "https://app.autocalls.ai/api/",
+    "baseUrl": "https://app.clickspeak.ai/api/",
     "auth": {
       "method": "bearer"
     }
